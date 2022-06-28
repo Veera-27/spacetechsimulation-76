@@ -1,0 +1,26 @@
+p{
+ font-size:20px;
+color: yellow;
+}
+body{
+background: linear-gradient(#0022ff 0%,#62ff00 100%);
+}
+h2{
+color:white;
+font-family:monospace;
+font-weight: bold;
+}
+p{
+color: white;
+font-family:monospace
+}
+iframe{
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 50px;
+}
+img{
+height: 1000px;
+width: 1150px;
+margin-left: 100px;
+}
